@@ -91,6 +91,14 @@ GOOD COMMANDS:
 ╰$ taail -f |history
 
 END...
+******** BRING PACKAGE.JSON UP TO DATE
+
+  npm install -g npm-check-updates
+
+  ncu -u
+
+  git push origin head
+
 
 
 
